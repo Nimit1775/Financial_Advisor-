@@ -12,8 +12,11 @@ function Hero () {
              Manage your money with AI-Driven Personel  <br />
               <span className="text-4xl md:text-[6rem]  text-blue-800 font-bold mt-1 leading-none">
                 Finance Advisor 
+                <br />
               </span>
             </h1>
+            <br />
+            
           </>
         }
       >
